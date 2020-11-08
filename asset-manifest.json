@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cricketlivescore/static/css/main.76d61fc6.chunk.css",
+    "main.js": "/cricketlivescore/static/js/main.b15f9a45.chunk.js",
+    "main.js.map": "/cricketlivescore/static/js/main.b15f9a45.chunk.js.map",
+    "runtime-main.js": "/cricketlivescore/static/js/runtime-main.88afb4dd.js",
+    "runtime-main.js.map": "/cricketlivescore/static/js/runtime-main.88afb4dd.js.map",
+    "static/js/2.33f2f70f.chunk.js": "/cricketlivescore/static/js/2.33f2f70f.chunk.js",
+    "static/js/2.33f2f70f.chunk.js.map": "/cricketlivescore/static/js/2.33f2f70f.chunk.js.map",
+    "static/js/3.719dd118.chunk.js": "/cricketlivescore/static/js/3.719dd118.chunk.js",
+    "static/js/3.719dd118.chunk.js.map": "/cricketlivescore/static/js/3.719dd118.chunk.js.map",
+    "index.html": "/cricketlivescore/index.html",
+    "static/css/main.76d61fc6.chunk.css.map": "/cricketlivescore/static/css/main.76d61fc6.chunk.css.map",
+    "static/js/2.33f2f70f.chunk.js.LICENSE.txt": "/cricketlivescore/static/js/2.33f2f70f.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/cricketlivescore/static/media/logo.103b5fa1.svg",
+    "static/media/vs.png": "/cricketlivescore/static/media/vs.7419083b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88afb4dd.js",
+    "static/js/2.33f2f70f.chunk.js",
+    "static/css/main.76d61fc6.chunk.css",
+    "static/js/main.b15f9a45.chunk.js"
+  ]
+}
